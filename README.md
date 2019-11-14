@@ -13,7 +13,7 @@
 
 - As Section 2 of the paper states, stock data shall be treated as a matrix $X \in R^{T \times N}$, a market of $N$ stocks over $T$ time periods. You can consider it like: $T$ is number of data points (varied), $N$ is number of features (fixed).
 
-- IBB Index Data (ibb_uq.csv)
+- IBB Index Data (ibb_uq.csv) (The iShares Nasdaq Biotechnology ETF seeks to track the investment results of an index composed of biotechnology and pharmaceutical equities listed on the NASDAQ.)
     1. PX_LAST
     2. (absolute) Change
     3. % Change
